@@ -10,15 +10,15 @@ import SectionHeading from './SectionHeading';
 const SCREENSHOTS = [
   {
     title: 'Homepage',
-    image: `${import.meta.env.BASE_URL}al-rasal-images/al-rasal-homepage.png`,
+    image: '/aamna-girnari-portfolio/al-rasal-images/al-rasal-homepage.png',
   },
   {
     title: 'Product / Menu Page',
-    image: `${import.meta.env.BASE_URL}al-rasal-images/al-rasal-menu.png`,
+    image: '/aamna-girnari-portfolio/al-rasal-images/al-rasal-menu.png',
   },
   {
     title: 'Admin Interface',
-    image: `${import.meta.env.BASE_URL}al-rasal-images/al-rasal-admin.png`,
+    image: '/aamna-girnari-portfolio/al-rasal-images/al-rasal-admin.png',
   },
 ];
 

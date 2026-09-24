@@ -11,7 +11,7 @@ const CAPABILITIES = [
 const DASHBOARDS = [
   {
     title: 'Genome / Gene Structure Dashboard',
-    image: '/dashboard-images/genome-dashboard.png',
+    image: '/aamna-girnari-portfolio/dashboard-images/genome-dashboard.png',
   },
 ];
 
