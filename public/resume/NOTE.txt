@@ -1,0 +1,8 @@
+A starter resume (Aamna_Girnari_Resume.docx) is included, built from the same
+verified content as the portfolio. Fill in the [Add ...] placeholders (institution
+names, years, email, date), then export it to PDF and save it here as:
+
+    Aamna_Girnari_Resume.pdf
+
+so it matches the path used across the site (/resume/Aamna_Girnari_Resume.pdf).
+Update src/data/socials.ts if you'd rather point to the .docx directly.
